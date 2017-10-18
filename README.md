@@ -6,7 +6,7 @@ Security Talk for CodeWeek 17' in Minho University
 2. XSS
 3. SQLi
 4. Reverse Engineering
-
+![](http://i.imgur.com/iVHfwLc.gif)
 ## Speakers
 [Ze Pedro Resende](https://github.com/ZePedroResende)
 
