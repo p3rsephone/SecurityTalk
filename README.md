@@ -11,4 +11,6 @@ Security Talk for CodeWeek 17' in Minho University
 ## Speakers
 [Ze Pedro Resende](https://github.com/ZePedroResende)
 
+[Daniel Tinoco](https://github.com/0urobor0s)
+
 [Tânia Silva](https://github.com/p3rsephone) (That's me :wink:)
